@@ -1,2 +1,3 @@
-# batchmeet
-BatchMeet web app development
+# Batch-Meet-Backend
+Techflare 2021 - Team STRIKE BACK
+Backend repo
